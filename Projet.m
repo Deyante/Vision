@@ -5,7 +5,7 @@ close all;
 %d'abord normaliser, puis seuiller pour essayer de ne detecter que le
 %frisbee, on peut essayer de creer autour du frisbee une zone ou on
 %augmente l'intensité des pixels et on diminue ce qui n'est pas autour
-
+%on essaye ouuuuu
 %On essaye sur la premiere image
 Icouleur=imread("image_1.png");
 I=f_normal(rgb2gray(Icouleur));
